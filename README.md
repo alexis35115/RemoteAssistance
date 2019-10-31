@@ -1,4 +1,4 @@
-# Procédure d'assistance à distance
+# Assistance à distance
 
 ## Description
 
